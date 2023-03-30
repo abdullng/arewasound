@@ -1,4 +1,4 @@
-var imageURLs = ["https://arewasound.com/group.png",];
+var imageURLs = ["https://arewasound.com/groups.png",];
     
   function getImageTagmob() 
   {
