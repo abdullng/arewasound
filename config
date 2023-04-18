@@ -23,7 +23,7 @@
       "show_post_list_categories": false,
       "show_post_list_comment": false,
       "show_post_list_line_divider": false,
-      "show_post_date": true,
+      "show_post_date": false,
       "show_post_count_in_category_list": false,
       "show_related_posts": true,
       "enable_comment_feature": true,
