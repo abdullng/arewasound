@@ -20,11 +20,11 @@
       "post_list_in_large_style": false,
       "show_post_list_header": true,
       "show_post_list_excerpt": true,
-      "show_post_list_categories": false,
+      "show_post_list_categories": true,
       "show_post_list_comment": false,
-      "show_post_list_line_divider": false,
-      "show_post_date": false,
-      "show_post_count_in_category_list": false,
+      "show_post_list_line_divider": true,
+      "show_post_date": true,
+      "show_post_count_in_category_list": true,
       "show_related_posts": true,
       "enable_comment_feature": true,
       "enable_view_on_site_menu": true,
@@ -34,7 +34,7 @@
       "enable_https_trust_manager": true
    },
    "custom_category": {
-      "status": false,
+      "status": true,
       "categories": [
          {
             "id": 11,
