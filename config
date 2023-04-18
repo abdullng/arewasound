@@ -1,0 +1,191 @@
+{
+   "apps": {
+      "status": true,
+      "redirect_url": ""
+   },
+   "wordpress": {
+      "site_url": "https://arewasound.com/",
+      "rest_api_provider": "default",
+      "posts_per_page": 10,
+      "categories_per_page": 24,
+      "max_related_posts": 5
+   },
+   "settings": {
+      "more_apps_url": "https://play.google.com/store/apps/dev?id=8172118008980079267&gl=US",
+      "privacy_policy_url": "https://www.arewasound.com/privacy-policy",
+      "terms_conditions_url": "https://www.arewasound.com/privacy-policy",
+      "publisher_info_url": "https://www.arewasound.com/author/absound/",
+      "email_feedback_and_report": "infoarewasound@gmail.com",
+      "category_column_count": 3,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_list_excerpt": true,
+      "show_post_list_categories": false,
+      "show_post_list_comment": false,
+      "show_post_list_line_divider": false,
+      "show_post_date": true,
+      "show_post_count_in_category_list": false,
+      "show_related_posts": true,
+      "enable_comment_feature": true,
+      "enable_view_on_site_menu": true,
+      "enable_exit_dialog": true,
+      "enable_rtl_mode": false,
+      "enable_dark_mode_as_default_theme": false,
+      "enable_https_trust_manager": true
+   },
+   "custom_category": {
+      "status": false,
+      "categories": [
+         {
+            "id": 11,
+            "name": "Business",
+            "image": "https://i.imgur.com/DqQrnm0.png"
+         },
+         {
+            "id": 14,
+            "name": "Tourism",
+            "image": "https://i.imgur.com/r6Zd7qO.png"
+         },
+         {
+            "id": 7,
+            "name": "Politics",
+            "image": "https://i.imgur.com/28DQxFt.png"
+         },
+         {
+            "id": 10,
+            "name": "Food",
+            "image": "https://i.imgur.com/2ngb45h.png"
+         },
+         {
+            "id": 6,
+            "name": "News",
+            "image": "https://i.imgur.com/nyrbj9W.png"
+         },
+         {
+            "id": 15,
+            "name": "World",
+            "image": "https://i.imgur.com/R0bZ4h4.png"
+         },
+         {
+            "id": 4,
+            "name": "Sports",
+            "image": "https://i.imgur.com/83Bt9Mb.png"
+         },
+         {
+            "id": 8,
+            "name": "Football",
+            "image": "https://i.imgur.com/NqT55yX.png"
+         },
+         {
+            "id": 5,
+            "name": "Technology",
+            "image": "https://i.imgur.com/f1EHhy6.png"
+         },
+         {
+            "id": 17,
+            "name": "Android",
+            "image": "https://i.imgur.com/qw9drQQ.png"
+         },
+         {
+            "id": 3,
+            "name": "Health",
+            "image": "https://i.imgur.com/ljK9HqE.png"
+         },
+         {
+            "id": 12,
+            "name": "Finance",
+            "image": "https://i.imgur.com/hGOweXN.png"
+         },
+         {
+            "id": 16,
+            "name": "Entertainment",
+            "image": "https://i.imgur.com/I7O2nLm.png"
+         },
+         {
+            "id": 9,
+            "name": "Gadget",
+            "image": "https://i.imgur.com/ddCegPU.png"
+         },
+         {
+            "id": 13,
+            "name": "Travel",
+            "image": "https://i.imgur.com/GHWmjZL.png"
+         }
+      ]
+   },
+   "ads": {
+      "status": true,
+      "main_ads": "admob",
+      "backup_ads": "none",
+      "ads_unit_id": {
+         "admob": {
+            "publisher_id": "pub-8246667868874065",
+            "app_open_id": "ca-app-pub-8246667868874065/8402761630",
+            "banner_id": "ca-app-pub-8246667868874065/5756416996",
+            "interstitial_id": "ca-app-pub-8246667868874065/6303211901",
+            "native_id": "ca-app-pub-8246667868874065/9963007893"
+         },
+         "google_ad_manager": {
+            "app_open_id": "/6499/example/app-open",
+            "banner_id": "/6499/example/banner",
+            "interstitial_id": "/6499/example/interstitial",
+            "native_id": "/6499/example/native"
+         },
+         "facebook": {
+            "banner_id": "IMG_16_9_#1102290040176998_1102321626840506",
+            "interstitial_id": "IMG_16_LL#1102290040176998_1103218190084183",
+            "native_id": "IMG_16_9_APP_INS176998_1142394442833224"
+         },
+         "applovin_max": {
+            "app_open_id": "0",
+            "banner_id": "0",
+            "interstitial_id": "0",
+            "native_id": "0"
+         },
+         "applovin_discovery": {
+            "banner_zone_id": "0",
+            "mrec_zone_id": "0",
+            "interstitial_zone_id": "0"
+         },
+         "startapp": {
+            "app_id": "0"
+         },
+         "unity": {
+            "game_id": "4087793",
+            "banner_id": "banner",
+            "interstitial_id": "video"
+         },
+         "ironsource": {
+            "app_key": "8546cd",
+            "banner_id": "DefaultBanner",
+            "interstitial_id": "DefaultInterstitial"
+         },
+         "wortise": {
+            "app_id": "test-app-id",
+            "app_open_id": "test-app-open",
+            "banner_id": "test-banner",
+            "interstitial_id": "test-interstitial",
+            "native_id": "test-native"
+         }
+      },
+      "placement": {
+         "banner_home": true,
+         "banner_post_details": true,
+         "banner_category_details": true,
+         "banner_search": true,
+         "interstitial_post_list": true,
+         "interstitial_post_details": true,
+         "native_post_list": true,
+         "native_post_details": true,
+         "app_open_ad_on_start": true,
+         "app_open_ad_on_resume": true
+      },
+      "global": {
+         "interstitial_ad_interval": 3,
+         "native_ad_index": 3,
+         "native_ad_style_post_list": "medium",
+         "native_ad_style_post_details": "large",
+         "native_ad_post_details_position": "bottom"
+      }
+   }
+}
