@@ -34,11 +34,11 @@
       "enable_https_trust_manager": true
    },
    "custom_category": {
-      "status": false,
+      "status": true,
       "categories": [
          {
-            "id": 11,
-            "name": "internet",
+            "id": 21,
+            "name": "JOB APPLY",
             "image": "https://i.imgur.com/DqQrnm0.png"
          },
          {
