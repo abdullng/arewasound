@@ -47,68 +47,68 @@
             "image": "https://arewasound.com/images/recriutments.png"
          },
          {
-            "id": 7,
+            "id": 28,
             "name": "OPPORTUNITIES",
             "image": "https://i.imgur.com/28DQxFt.png"
          },
          {
-            "id": 10,
-            "name": "Food",
+            "id": 23,
+            "name": "NPC UPDATES",
             "image": "https://i.imgur.com/2ngb45h.png"
          },
          {
-            "id": 6,
-            "name": "News",
+            "id": 276,
+            "name": "N-POWER UPDATES",
             "image": "https://i.imgur.com/nyrbj9W.png"
          },
          {
-            "id": 15,
-            "name": "World",
+            "id": 78,
+            "name": "NEWS",
             "image": "https://i.imgur.com/R0bZ4h4.png"
          },
          {
-            "id": 4,
-            "name": "Sports",
+            "id": 44,
+            "name": "LOAN APPLY",
             "image": "https://i.imgur.com/83Bt9Mb.png"
          },
          {
-            "id": 8,
-            "name": "Football",
+            "id": 280,
+            "name": "JAMB",
             "image": "https://i.imgur.com/NqT55yX.png"
          },
          {
-            "id": 5,
-            "name": "Technology",
+            "id": 63,
+            "name": "HAUSA UPDATES",
             "image": "https://i.imgur.com/f1EHhy6.png"
          },
          {
-            "id": 17,
-            "name": "Android",
+            "id": 264,
+            "name": "EXTRA INCOME",
             "image": "https://i.imgur.com/qw9drQQ.png"
          },
          {
-            "id": 3,
-            "name": "Health",
+            "id": 79,
+            "name": "NIRSAL",
             "image": "https://i.imgur.com/ljK9HqE.png"
          },
          {
-            "id": 12,
-            "name": "Finance",
+            "id": 282,
+            "name": "SHORTLISTED",
             "image": "https://i.imgur.com/hGOweXN.png"
          },
          {
-            "id": 16,
-            "name": "Entertainment",
+            "id": 260,
+            "name": "BUSINESS",
             "image": "https://i.imgur.com/I7O2nLm.png"
          },
          {
-            "id": 9,
-            "name": "Gadget",
+            "id": 42,
+            "name": "CBN LOAN",
             "image": "https://i.imgur.com/ddCegPU.png"
          },
          {
-            "id": 13,
-            "name": "Travel",
+            "id": 70,
+            "name": "MAKE MONEY ONLINE",
             "image": "https://i.imgur.com/GHWmjZL.png"
          }
       ]
