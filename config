@@ -77,11 +77,6 @@
             "image": "https://arewasound.com/images/jamb.png"
          },
          {
-            "id": 63,
-            "name": "HAUSA UPDATES",
-            "image": "https://i.imgur.com/f1EHhy6.png"
-         },
-         {
             "id": 264,
             "name": "EXTRA INCOME",
             "image": "https://arewasound.com/images/income.png"
@@ -105,6 +100,11 @@
             "id": 42,
             "name": "CBN LOAN",
             "image": "https://arewasound.com/images/cbn.png"
+         },
+         {
+            "id": 63,
+            "name": "HAUSA UPDATES",
+            "image": "https://i.imgur.com/f1EHhy6.png"
          },
          {
             "id": 70,
