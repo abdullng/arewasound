@@ -11,7 +11,7 @@
       "max_related_posts": 5
    },
    "settings": {
-      "more_apps_url": "https://play.google.com/store/apps/dev?id=8172118008980079267&gl=US",
+      "more_apps_url": "https://play.google.com/store/apps/details?id=com.app.arewasound&gl=US",
       "privacy_policy_url": "https://www.arewasound.com/privacy-policy",
       "terms_conditions_url": "https://www.arewasound.com/privacy-policy",
       "publisher_info_url": "https://www.arewasound.com/author/absound/",
@@ -119,11 +119,11 @@
       "backup_ads": "none",
       "ads_unit_id": {
          "admob": {
-            "publisher_id": "pub-8246667868874065",
-            "app_open_id": "ca-app-pub-8246667868874065/8402761630",
-            "banner_id": "ca-app-pub-8246667868874065/5756416996",
-            "interstitial_id": "ca-app-pub-8246667868874065/6303211901",
-            "native_id": "ca-app-pub-8246667868874065/5184328087"
+            "publisher_id": "pub-7067018039884542",
+            "app_open_id": "ca-app-pub-7067018039884542/8991378012",
+            "banner_id": "ca-app-pub-7067018039884542/7349596428",
+            "interstitial_id": "ca-app-pub-7067018039884542/7257316830",
+            "native_id": "ca-app-pub-7067018039884542/2069349589"
          },
          "google_ad_manager": {
             "app_open_id": "/6499/example/app-open",
