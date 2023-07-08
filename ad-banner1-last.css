@@ -1,0 +1,92 @@
+.ad-banner1 {
+    position: sticky;
+    bottom: 0;
+    height: 60px;
+    background-color: #101D25;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    font-size: 10px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+      padding: 5px;
+      border-top-left-radius: 12px;
+      border-bottom-left-radius: 12px;
+      border-top-right-radius: 12px;
+      border-bottom-right-radius: 12px;
+      overflow: hidden;
+}
+
+		.ad-image1 {
+			width: 55px;
+			height: 55px;
+			object-fit: cover;
+			border-radius: 20%;
+			margin-right: 10px;
+            margin-left: 15px;
+			box-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);
+		}
+
+
+		.ad-text {
+			flex-grow: 1;
+			margin-right: 10px;
+		}
+
+		.ad-button {
+  background-color: #FFFFFF;
+  color: #000000;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 9px;
+  cursor: pointer;
+  font-size: 10px;
+  font-weight: bold;
+  text-align: center;
+  outline: none;
+  box-shadow: 0 7px #666;
+  text-transform: uppercase;
+  transition: all 0.3s ease;
+  margin-right: 15px;
+  margin-bottom: 5px;
+}
+
+.ad-button:hover {
+			background-color: #BF8B36;
+			color: #FFFFFF;
+		}
+
+.ad-button:active {
+  background-color: #BF8B36;
+  box-shadow: 0 5px #000;
+  transform: translateY(4px);
+}        
+        .shadow {
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+/* Smartphone Portrait and Landscape */
+  @media only screen
+    and (min-device-width : 320px)
+    and (max-device-width : 480px){
+     .adsbanner { display: none;}
+  }
+
+#content-desktop {display: block;}
+#content-mobile {display: none;}
+
+@media screen and (max-width: 768px) {
+
+#content-desktop {display: none;}
+#content-mobile {display: block;}
+
+}
+.arewasound {
+         font-size: 19px;
+         margin-bottom: 15px;
+         align: center;
+         margin-top: 15px;
+
+}
