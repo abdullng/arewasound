@@ -1,0 +1,80 @@
+.ad-banner {
+    position: sticky;
+    bottom: 0;
+    height: 70px;
+    height: 75px;
+    background-color: #101D25;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+		.ad-image {
+			width: 70px;
+			height: 70px;
+			object-fit: cover;
+			border-radius: 50%;
+			margin-right: 10px;
+			box-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);
+		}
+
+
+		.ad-text {
+			flex-grow: 1;
+			margin-right: 10px;
+		}
+
+		.ad-button {
+  background-color: #FFFFFF;
+  color: #000000;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 9px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+  outline: none;
+  box-shadow: 0 9px #666;
+  text-transform: uppercase;
+  transition: all 0.3s ease;
+}
+
+.ad-button:hover {
+			background-color: #BF8B36;
+			color: #FFFFFF;
+		}
+
+.ad-button:active {
+  background-color: #BF8B36;
+  box-shadow: 0 5px #000;
+  transform: translateY(4px);
+}        
+        .shadow {
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+/* Smartphone Portrait and Landscape */
+  @media only screen
+    and (min-device-width : 320px)
+    and (max-device-width : 480px){
+     .adsbanner { display: none;}
+  }
+
+#content-desktop {display: block;}
+#content-mobile {display: none;}
+
+@media screen and (max-width: 768px) {
+
+#content-desktop {display: none;}
+#content-mobile {display: block;}
+
+}
+.arewasound {
+         font-size: 9px;
+}
