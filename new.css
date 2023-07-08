@@ -1,13 +1,12 @@
 .ad-banner {
     position: sticky;
     bottom: 0;
-    height: 70px;
-    height: 75px;
+    height: 40px;
     background-color: #101D25;
     color: #ffffff;
     text-align: center;
     padding: 10px;
-    font-size: 18px;
+    font-size: 15px;
     font-weight: bold;
     display: flex;
     justify-content: space-between;
@@ -15,11 +14,12 @@
 }
 
 		.ad-image {
-			width: 70px;
-			height: 70px;
+			width: 40px;
+			height: 40px;
 			object-fit: cover;
 			border-radius: 50%;
 			margin-right: 10px;
+            margin-left: 15px;
 			box-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);
 		}
 
@@ -33,16 +33,17 @@
   background-color: #FFFFFF;
   color: #000000;
   border: none;
-  padding: 8px 15px;
+  padding: 5px 8px;
   border-radius: 9px;
   cursor: pointer;
-  font-size: 14px;
+  font-size: 10px;
   font-weight: bold;
   text-align: center;
   outline: none;
-  box-shadow: 0 9px #666;
+  box-shadow: 0 7px #666;
   text-transform: uppercase;
   transition: all 0.3s ease;
+  margin-right: 15px;
 }
 
 .ad-button:hover {
@@ -77,4 +78,16 @@
 }
 .arewasound {
          font-size: 9px;
+         margin-bottom: 15px;
 }
+
+.ad-banner {
+      background-color: #101D25;
+      padding: 5px;
+      border-top-left-radius: 10px;
+      border-bottom-left-radius: 0px;
+      border-top-right-radius: 10px;
+      border-bottom-right-radius: 0px;
+      position: relative;
+      overflow: hidden;
+    }
